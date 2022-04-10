@@ -1,0 +1,52 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+}
+h1{
+font-size: 50px;
+font-family: 'Times New Roman', Times, serif;
+}
+p{
+   
+    font-size: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.Smiling-picture{
+    background-color: white;
+    margin-left: 105px;
+    margin-right: 105px;
+    padding-top: 60px;
+    padding-bottom: 80px;
+    box-shadow: 5% 0 black;
+}
+.img{
+    border-radius: 80px;
+    padding: 50px;
+    margin-right: 50px;
+    width: 70%;
+    
+   
+}
+body{
+    background-color: beige;
+    
+}
+@media (max-width:"25.75cm") {
+   html{
+       font-size: 55;
+   }
+}
+ul{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    word-spacing: 3.5px;
+    
+}
+    strong{
+    font-family: inherit;
+    }
+    i{
+        font-size: 100px;
+    }
+
